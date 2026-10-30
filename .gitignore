@@ -1,0 +1,19 @@
+/.vs
+# 忽略 VS 的缓存和隐藏文件夹
+.vs/
+
+# 忽略编译生成的 x64/Release/Debug 文件夹
+x64/
+x86/
+Debug/
+Release/
+
+# 忽略个人的用户设置文件
+*.user
+
+# 忽略编译生成的各种后缀文件
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
